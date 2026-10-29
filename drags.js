@@ -15,3 +15,5 @@ const drags = [
     winner: false,
   },
 ];
+
+export default drags;

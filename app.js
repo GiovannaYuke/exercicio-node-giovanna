@@ -1,4 +1,5 @@
 import express from "express";
+import drags from "./drags.js";
 
 const app = express();
 const port = 3000;
