@@ -7,3 +7,6 @@ Criação do package.json
 
 Criação do package-lock.json
 -> npm install
+
+Instalar depedências express
+-> nom install express
